@@ -1,0 +1,5 @@
+Saludos prof, esta app la seguí de un tutorial de youtube que encontré, en realidad no hay muchos
+videos, al menos en español, explicando desde 0 cómo hacer una app en React Native de este estilo y
+se me hizo el video más completo ya que enseña a cómo conectarse a una base de datos usando express y MySQL,
+también hace uso de CORS para restingir las peticiones al servidor. Adicionalmente en el front usa un plugin
+para una animación, hace uso de modales para mostrar dentro de la app y poco más. 
